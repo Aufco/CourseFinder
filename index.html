@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A speed-focused WGU computer science course plan.">
+  <title>Course Sprint</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="app-home-link" href="/" aria-label="Return to App Home">← <span>App Home</span></a>
+  <div class="ambient ambient-one"></div>
+  <div class="ambient ambient-two"></div>
+  <main>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">WGU COMPUTER SCIENCE · SPEED PLAN</p>
+        <h1>One course at a time.<br><span>One semester at WGU.</span></h1>
+        <p class="lede">Transfer first. Pre-study the matching OSSU material. Arrive at WGU ready to finish.</p>
+      </div>
+      <div class="progress-card" aria-label="Overall progress">
+        <div class="progress-label"><span>Overall progress</span><strong id="progress-count">0 / 29</strong></div>
+        <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+        <p id="unit-count">0 of 95 units complete</p>
+      </div>
+    </header>
+
+    <nav class="section-nav" aria-label="Course sections">
+      <button class="nav-pill active" data-section="all">All courses <span>29</span></button>
+      <button class="nav-pill" data-section="Sophia">01 · Sophia <span>5</span></button>
+      <button class="nav-pill" data-section="Study.com">02 · Study.com <span>6</span></button>
+      <button class="nav-pill" data-section="WGU">03 · WGU <span>18</span></button>
+    </nav>
+
+    <section class="plan-shell">
+      <div class="plan-heading">
+        <div>
+          <p class="eyebrow">RECOMMENDED ORDER</p>
+          <h2 id="view-title">The complete runway</h2>
+        </div>
+        <button id="reset-progress" class="text-button" type="button">Reset progress</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Done</th>
+              <th scope="col">Order</th>
+              <th scope="col">WGU Courses</th>
+              <th scope="col">Units</th>
+              <th scope="col">Platform</th>
+              <th scope="col">OSSU</th>
+            </tr>
+          </thead>
+          <tbody id="course-body"></tbody>
+        </table>
+      </div>
+      <div id="error" class="error" hidden></div>
+    </section>
+  </main>
+  <footer>Course data is loaded directly from <code>course_plan.csv</code>.</footer>
+  <script src="app.js"></script>
+</body>
+</html>

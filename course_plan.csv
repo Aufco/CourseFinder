@@ -1,0 +1,30 @@
+WGU Courses,Units,Platform,OSSU
+Calculus I,4,[*MATH1040 (SOPH-0060)](https://app.sophia.org/online-courses/calculus-i-2),
+Data Management - Foundations,3,[*CS1011 (SOPH-0047)](https://app.sophia.org/online-courses/introduction-to-relational-databases-2),
+Network and Security - Foundations,3,[*CS1015 (SOPH-0068)](https://app.sophia.org/online-courses/introduction-to-networking-2),
+Web Development Foundations,3,[*CS1005 (SOPH-0043)](https://app.sophia.org/online-courses/introduction-to-web-development-2),
+Java Fundamentals,3,[*CS1101 (SOPH-0062)](https://app.sophia.org/online-courses/introduction-to-java-programming),
+Scripting and Programming - Foundations,3,[*Computer Science 109 (SDCM-0214)](https://study.com/academy/course/computer-science-109-introduction-to-programming.html) or [Computer Science 112 (SDCM-0198)](https://study.com/academy/course/computer-science-112-programming-in-c.html),
+Data Management - Applications,4,[*Analytics 103 (SDCM-0240)](https://study.com/academy/course/analytics-103-intro-to-relational-databases-sql.html) or [Computer Science 107 (SDCM-0212)](https://study.com/academy/course/computer-science-107-database-fundamentals.html),
+Scripting and Programming - Applications,4,[*Computer Science 113 (SDCM-0216)](https://study.com/academy/course/computer-science-113-programming-in-python.html),
+Fundamentals of Information Security,3,[*Computer Science 202 (SDCM-0200)](https://study.com/academy/course/computer-science-202-network-and-system-security.html) or [Computer Science 110 (SDCM-0215)](https://study.com/academy/course/computer-science-110-introduction-to-cybersecurity.html),
+Introduction to AI for Computer Scientists,2,[*Computer Science 311 (SDCM-0230)](https://study.com/academy/course/computer-science-311-artificial-intelligence.html) or [Generative AI: Real-World Skills (SDCM-0261)](https://study.com/academy/course/mastering-generative-ai.html),
+Software Engineering,4,[*Computer Science 307 (SDCM-0220)](https://study.com/academy/course/computer-science-307-software-engineering.html),
+Version Control,1,WGU,[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+Introduction to Computer Science,4,WGU,[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md)
+Discrete Mathematics I,4,WGU,[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+Discrete Mathematics II,4,WGU,[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+Data Structures and Algorithms I,4,WGU,"[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1)"
+Business of IT - Applications,4,WGU,
+Linux Foundations,3,WGU,[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+Computer Architecture,3,WGU,[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
+Operating Systems for Computer Scientists,3,WGU,[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md)
+Java Frameworks,3,WGU,[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)
+Software Design and Quality Assurance,3,WGU,[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
+Back-End Programming,3,WGU,
+Advanced Java,3,WGU,[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)
+Practical Applications of Prompt,2,WGU,
+Data Structures and Algorithms II,4,WGU,"[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2)"
+Artificial Intelligence Optimization for Computer Scientists,3,WGU,[Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+Advanced AI and ML,3,WGU,[Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+Computer Science Project Development with a Team,3,WGU,[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)
